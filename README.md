@@ -39,7 +39,7 @@ portfolio/
 └── README.md  
 
 # 🎨 Paleta de Colores
-css--color-bg: #151515  /* Fondo principal */    
+--css--color-bg: #151515  /* Fondo principal */    
 --color-text: #ffffff  /* Texto principal */    
 --color-accent: #4ee1a0  /* Color de acento */  
 --color-gray: #242424  /* Gris oscuro */  
